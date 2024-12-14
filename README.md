@@ -9,6 +9,13 @@ Este repositório contém o _Lean Inception_, o _backlog_ inicial e os _wirefram
 - Criar e jogar atividades temáticas de programas.
 - Ver e comparar as respostas das jogadas de amigos.
 
+### Links:
+- [Template Miro](https://miro.com/app/board/uXjVLGu-CdI=/?share_link_id=277063889118)
+- [Protótipo Figma](https://www.figma.com/design/yGsWtIGcFdyluzMcL8zz8s/MVP-Wireframe---Todos-a-ver?node-id=0-1&t=TnIDQqqcTbImBV1x-1)
+
 
 ## OBS:
-Este app foi uma evolução de um projeto anterior, que empresta parte da temática e do nome, a aplicação web "Tudo a ver" ([front-end](https://github.com/Yuri-Vlasqz/MVP-FullStack-Frontend)/[back-end](https://github.com/Yuri-Vlasqz/MVP-FullStack-API)).
+
+Este app foi uma evolução de um projeto anterior, que empresta parte da temática e do nome, a aplicação web "Tudo a ver":
+- [SPA front-end](https://github.com/Yuri-Vlasqz/MVP-FullStack-Frontend)
+- [API back-end](https://github.com/Yuri-Vlasqz/MVP-FullStack-API).
